@@ -30,6 +30,8 @@ button{
   outline: none;
   border: none;
   font-family: algerian;
+  background:red;
+  color: white;
 }
 @keyframes fall {
   to {
